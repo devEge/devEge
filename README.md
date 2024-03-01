@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Flutter & Dart**
 
-- 🌱 I’m currently learning **C++,Assembly**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **aydinmehmetege@gmail.com**
 
